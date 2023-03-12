@@ -18,7 +18,7 @@ Uso HTML E CSS JAVASCRIPT
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 </p>
 
-<b>My GitHub Stats</b>
+<b>Meus Status No GitHub</b>
 
 <a href="http://www.github.com/Dev-Neto-Noob"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=NetoDev21&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
 
